@@ -1,5 +1,5 @@
 console.log('oli');
-var varray = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'];
+//in the string put whatever u want to be converted into an array
 var string = 'hola_mundo';
 var vstring = [];
 for (var i = 0; i < string.length; i++) {

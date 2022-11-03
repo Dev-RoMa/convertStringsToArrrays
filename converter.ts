@@ -1,6 +1,6 @@
 console.log('oli')
 
-let varray: string[] = ['a','e','i','o','u','A','E','I','O','U']
+//in the string put whatever u want to be converted into an array
 let string = 'hola_mundo'
 let vstring: string[] = []
 
